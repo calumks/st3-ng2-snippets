@@ -3,7 +3,6 @@
 ngOnChanges() {
 	$0
 }
-}
 ]]></content>
 	<tabTrigger>ng2-on-changes</tabTrigger>
 	<scope>source.ts,source.tsx,source.js</scope>
